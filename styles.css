@@ -424,6 +424,7 @@ h1, h2, h3 { line-height: 1.2; margin: 0 0 0.5em; }
 
 /* Contact page */
 .contact-split { padding: 60px 0 80px; background: var(--bg-light); }
+.contact-split > h2 { color: var(--gold); font-size: 2rem; text-align: center; margin-bottom: 40px; }
 .contact-split-intro { text-align: center; max-width: 640px; margin: 0 auto 40px; }
 .contact-split-intro h2 { color: var(--gold); font-size: 2rem; }
 .contact-split-intro p { color: var(--text-muted); margin: 0; }
