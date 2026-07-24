@@ -123,7 +123,7 @@ h1, h2, h3 { line-height: 1.2; margin: 0 0 0.5em; }
   font-size: 2.4rem;
   margin-bottom: 18px;
 }
-.accent { color: var(--yellow); }
+.accent { color: var(--yellow); font-size: 1.15em; }
 .hero-sub {
   color: #cfcfcf;
   font-size: 1.05rem;
